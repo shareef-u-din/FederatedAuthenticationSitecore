@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sitecore.Plugin.IdentityProvider.AzureAd</name>
+    </assembly>
+    <members>
+    </members>
+</doc>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sitecore.Plugin.IdentityProviders</name>
+    </assembly>
+    <members>
+        <member name="M:System.Security.Principal.PrincipalExtensions.GetIdentityProvider(System.Security.Principal.IPrincipal)">
+            <summary>Gets the identity provider.</summary>
+            <param name="principal">The principal.</param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Security.Principal.PrincipalExtensions.GetIdentityProvider(System.Security.Principal.IIdentity)">
+            <summary>Gets the identity provider.</summary>
+            <param name="identity">The identity.</param>
+            <returns></returns>
+            <exception cref="T:System.InvalidOperationException">idp claim is missing</exception>
+        </member>
+    </members>
+</doc>
