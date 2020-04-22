@@ -21,18 +21,18 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Sitecore.Framework.Runtime.Abstractions">
-      <HintPath>..\..\..\Previous D\Sitecore.Framework.Runtime.Abstractions.dll</HintPath>
-    </Reference>
-    <Reference Include="Sitecore.Framework.Runtime.Commands">
-      <HintPath>..\..\..\Websites\xp93.identityserver\Sitecore.Framework.Runtime.Commands.dll</HintPath>
-    </Reference>
-    <Reference Include="Sitecore.Plugin.IdentityProviders">
-      <HintPath>..\..\..\Websites\xp93.identityserver\Sitecore.Plugin.IdentityProviders.dll</HintPath>
-    </Reference>
+    <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Properties\" />
+    <Reference Include="Sitecore.Framework.Runtime.Abstractions">
+      <HintPath>..\Libraries\Sitecore.Framework.Runtime.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Framework.Runtime.Commands">
+      <HintPath>..\Libraries\Sitecore.Framework.Runtime.Commands.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Plugin.IdentityProviders">
+      <HintPath>..\Libraries\Sitecore.Plugin.IdentityProviders.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <None Update="Config\Sitecore.Plugin.IdentityProvider.Facebook.xml">
