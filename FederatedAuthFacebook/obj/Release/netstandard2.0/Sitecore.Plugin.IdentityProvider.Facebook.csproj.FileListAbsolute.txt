@@ -10,4 +10,17 @@ E:\VS Projects\FederatedAuthFacebook\FederatedAuthFacebook\obj\Release\netstanda
 E:\VS Projects\FederatedAuthFacebook\FederatedAuthFacebook\obj\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.csproj.CopyComplete
 E:\VS Projects\FederatedAuthFacebook\FederatedAuthFacebook\obj\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.dll
 E:\VS Projects\FederatedAuthFacebook\FederatedAuthFacebook\obj\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.pdb
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\bin\Release\netstandard2.0\Config\Sitecore.Plugin.IdentityProvider.Facebook.xml
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\bin\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.deps.json
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\bin\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.dll
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\bin\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.pdb
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\bin\Release\netstandard2.0\Sitecore.Framework.Runtime.Abstractions.dll
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\bin\Release\netstandard2.0\Sitecore.Framework.Runtime.Commands.dll
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\bin\Release\netstandard2.0\Sitecore.Plugin.IdentityProviders.dll
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\obj\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.csprojAssemblyReference.cache
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\obj\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.AssemblyInfoInputs.cache
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\obj\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.AssemblyInfo.cs
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\obj\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.csproj.CopyComplete
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\obj\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.dll
+E:\VS Projects\FederatedAuthentication\FederatedAuthFacebook\obj\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.pdb
 E:\VS Projects\FederatedAuthFacebook\FederatedAuthFacebook\obj\Release\netstandard2.0\Sitecore.Plugin.IdentityProvider.Facebook.csprojAssemblyReference.cache
