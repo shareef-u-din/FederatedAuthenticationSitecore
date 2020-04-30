@@ -27,6 +27,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://sitecore.myget.org/F/sc-framework-packages/api/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-identity/api/v3/index.json": {},
           "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
         },
         "frameworks": {
@@ -55,21 +56,29 @@
               "target": "Package",
               "version": "[3.1.3, )"
             },
-            "Microsoft.Extensions.Primitives": {
-              "target": "Package",
-              "version": "[3.1.3, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Sitecore.Framework.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
             "Sitecore.Framework.Runtime.Build": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[1.1.0, )"
+            },
+            "Sitecore.Framework.Runtime.Commands": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Sitecore.Plugin.IdentityServer": {
+              "target": "Package",
+              "version": "[4.0.0, )"
             }
           },
           "imports": [
